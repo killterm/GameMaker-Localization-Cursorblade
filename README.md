@@ -1,10 +1,15 @@
 # gamemaker-cursorblade
 
-Cursorblade 한글패치
+Cursorblade 한글 패치
 
-## 버전
+- 게임 데이터의 저작권은 모두 개발사 혹은 배급사에 있습니다.
+  - 이 패치는 개발사 혹은 배급사의 요청에 의해 언제든 삭제될 수 있습니다.
+- 수정 및 재배포 금지입니다.
 
-v1.7
+## 게임
+
+- [스팀 상점 페이지](https://store.steampowered.com/app/2449040/Cursorblade/)
+- v1.7
 
 ## 사용법
 
