@@ -1,4 +1,4 @@
-# gamemaker-cursorblade
+# GameMaker-Cursorblade
 
 Cursorblade 한글 패치
 
